@@ -3,6 +3,8 @@
 *.jl.mem
 deps/deps.jl
 
+.idea/
+
 # Created by https://www.gitignore.io/api/intellij
 
 ### Intellij ###
